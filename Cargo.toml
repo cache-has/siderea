@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = ["crates/astro-core", "crates/wasm-bridge"]
+
+# Optimize WASM release builds for size
+[profile.release]
+opt-level = "z"       # Optimize for binary size
+lto = true            # Link-time optimization across all crates
+codegen-units = 1     # Better optimization at cost of compile time
+strip = true          # Strip debug symbols

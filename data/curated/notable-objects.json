@@ -1,0 +1,2935 @@
+{
+  "format_version": 1,
+  "coordinate_system": "J2000 equatorial, parsecs",
+  "total_objects": 150,
+  "objects": [
+    {
+      "id": "ngc_1976",
+      "name": "Orion Nebula",
+      "catalog_ids": [
+        "M42",
+        "NGC 1976"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 83.8221,
+      "dec": -5.3911,
+      "dist_pc": 412,
+      "x": 44.1,
+      "y": 407.8,
+      "z": -38.7,
+      "angular_size_arcmin": 85,
+      "description": "One of the brightest nebulae visible to the naked eye, containing a young open cluster and serving as a prolific stellar nursery roughly 1,344 light-years away.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1952",
+      "name": "Crab Nebula",
+      "catalog_ids": [
+        "M1",
+        "NGC 1952"
+      ],
+      "type": "nebula",
+      "subtype": "supernova_remnant",
+      "ra": 83.63,
+      "dec": 22.01,
+      "dist_pc": 2000,
+      "x": 205.7,
+      "y": 1842.8,
+      "z": 749.5,
+      "angular_size_arcmin": 420,
+      "description": "The remnant of a supernova recorded by Chinese astronomers in 1054 AD, powered by a rapidly spinning neutron star at its center.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6523",
+      "name": "Lagoon Nebula",
+      "catalog_ids": [
+        "M8",
+        "NGC 6523"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 270.92,
+      "dec": -24.38,
+      "dist_pc": 1250,
+      "x": 18.3,
+      "y": -1138.4,
+      "z": -516.0,
+      "angular_size_arcmin": 90,
+      "description": "A giant interstellar cloud in Sagittarius, one of only two star-forming nebulae faintly visible to the naked eye from mid-northern latitudes.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6618",
+      "name": "Omega Nebula",
+      "catalog_ids": [
+        "M17",
+        "NGC 6618"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 275.2,
+      "dec": -16.17,
+      "dist_pc": 1600,
+      "x": 139.3,
+      "y": -1530.4,
+      "z": -445.6,
+      "angular_size_arcmin": 46,
+      "description": "Also known as the Swan or Horseshoe Nebula, this luminous H II region in Sagittarius contains an open cluster of 35 hot young stars.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6514",
+      "name": "Trifid Nebula",
+      "catalog_ids": [
+        "M20",
+        "NGC 6514"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 270.62,
+      "dec": -23.03,
+      "dist_pc": 1600,
+      "x": 15.9,
+      "y": -1472.4,
+      "z": -625.9,
+      "angular_size_arcmin": 28,
+      "description": "A combination of emission, reflection, and dark nebula divided into three lobes by obscuring dust lanes.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6853",
+      "name": "Dumbbell Nebula",
+      "catalog_ids": [
+        "M27",
+        "NGC 6853"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 299.9,
+      "dec": 22.72,
+      "dist_pc": 405,
+      "x": 186.2,
+      "y": -323.8,
+      "z": 156.4,
+      "angular_size_arcmin": 480,
+      "description": "The first planetary nebula ever discovered, found by Charles Messier in 1764, showing a bright bi-lobed structure.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6720",
+      "name": "Ring Nebula",
+      "catalog_ids": [
+        "M57",
+        "NGC 6720"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 283.4,
+      "dec": 33.03,
+      "dist_pc": 700,
+      "x": 136.0,
+      "y": -570.9,
+      "z": 381.6,
+      "angular_size_arcmin": 230,
+      "description": "A well-known planetary nebula in Lyra whose ring-shaped appearance is a projection effect of a barrel-shaped shell of glowing gas.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_3587",
+      "name": "Owl Nebula",
+      "catalog_ids": [
+        "M97",
+        "NGC 3587"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 168.7,
+      "dec": 55.02,
+      "dist_pc": 650,
+      "x": -365.4,
+      "y": 73.0,
+      "z": 532.6,
+      "angular_size_arcmin": 202,
+      "description": "A planetary nebula in Ursa Major named for two dark circular patches that give it an owl-like appearance.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7293",
+      "name": "Helix Nebula",
+      "catalog_ids": [
+        "NGC 7293"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 337.41,
+      "dec": -20.84,
+      "dist_pc": 219,
+      "x": 189.0,
+      "y": -78.6,
+      "z": -77.9,
+      "angular_size_arcmin": 960,
+      "description": "One of the nearest and largest planetary nebulae, sometimes called the Eye of God due to its striking appearance.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7000",
+      "name": "North America Nebula",
+      "catalog_ids": [
+        "NGC 7000"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 314.6,
+      "dec": 44.33,
+      "dist_pc": 520,
+      "x": 261.2,
+      "y": -264.9,
+      "z": 363.4,
+      "angular_size_arcmin": 120,
+      "description": "A large emission nebula in Cygnus whose shape resembles the continent of North America, particularly the Gulf of Mexico region.",
+      "texture_ref": null
+    },
+    {
+      "id": "ic_5070",
+      "name": "Pelican Nebula",
+      "catalog_ids": [
+        "IC 5070"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 312.75,
+      "dec": 44.37,
+      "dist_pc": 550,
+      "x": 266.9,
+      "y": -288.7,
+      "z": 384.6,
+      "angular_size_arcmin": 60,
+      "description": "An emission nebula adjacent to the North America Nebula, separated by a molecular cloud and shaped like a pelican.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6960",
+      "name": "Veil Nebula",
+      "catalog_ids": [
+        "NGC 6960",
+        "NGC 6992"
+      ],
+      "type": "nebula",
+      "subtype": "supernova_remnant",
+      "ra": 312.17,
+      "dec": 30.73,
+      "dist_pc": 735,
+      "x": 424.1,
+      "y": -468.3,
+      "z": 375.6,
+      "angular_size_arcmin": 180,
+      "description": "A large supernova remnant in Cygnus from a star that exploded roughly 10,000 to 20,000 years ago, forming delicate filaments of shocked gas.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2237",
+      "name": "Rosette Nebula",
+      "catalog_ids": [
+        "NGC 2237",
+        "NGC 2244"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 97.97,
+      "dec": 4.95,
+      "dist_pc": 1600,
+      "x": -221.0,
+      "y": 1578.6,
+      "z": 138.1,
+      "angular_size_arcmin": 80,
+      "description": "A large spherical H II region in Monoceros, with the open cluster NGC 2244 at its center whose stellar winds created the central cavity.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6611",
+      "name": "Eagle Nebula",
+      "catalog_ids": [
+        "M16",
+        "NGC 6611"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 274.7,
+      "dec": -13.81,
+      "dist_pc": 2000,
+      "x": 159.1,
+      "y": -1935.7,
+      "z": -477.4,
+      "angular_size_arcmin": 35,
+      "description": "Famous for the Pillars of Creation photographed by the Hubble Space Telescope, this emission nebula hosts active star formation.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_3372",
+      "name": "Eta Carinae Nebula",
+      "catalog_ids": [
+        "NGC 3372"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 161.26,
+      "dec": -59.87,
+      "dist_pc": 2300,
+      "x": -1093.3,
+      "y": 370.9,
+      "z": -1989.2,
+      "angular_size_arcmin": 120,
+      "description": "One of the largest and brightest nebulae in the sky, home to the massive and unstable star Eta Carinae and the Keyhole Nebula.",
+      "texture_ref": null
+    },
+    {
+      "id": "barnard_33",
+      "name": "Horsehead Nebula",
+      "catalog_ids": [
+        "IC 434",
+        "Barnard 33"
+      ],
+      "type": "nebula",
+      "subtype": "dark",
+      "ra": 85.24,
+      "dec": -2.46,
+      "dist_pc": 400,
+      "x": 33.2,
+      "y": 398.3,
+      "z": -17.2,
+      "angular_size_arcmin": 8,
+      "description": "One of the most identifiable dark nebulae, its distinctive horse-head shape is silhouetted against the bright emission nebula IC 434.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2392",
+      "name": "Eskimo Nebula",
+      "catalog_ids": [
+        "NGC 2392"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 112.29,
+      "dec": 20.91,
+      "dist_pc": 1200,
+      "x": -425.2,
+      "y": 1037.2,
+      "z": 428.3,
+      "angular_size_arcmin": 48,
+      "description": "A planetary nebula in Gemini with a complex double-shell structure resembling a face surrounded by a fur parka hood.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6543",
+      "name": "Cat's Eye Nebula",
+      "catalog_ids": [
+        "NGC 6543"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 269.64,
+      "dec": 66.63,
+      "dist_pc": 1000,
+      "x": -2.5,
+      "y": -396.7,
+      "z": 918.0,
+      "angular_size_arcmin": 22,
+      "description": "One of the most structurally complex planetary nebulae known, with concentric rings, jets, and knots revealing multiple episodes of mass ejection.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6826",
+      "name": "Blinking Planetary",
+      "catalog_ids": [
+        "NGC 6826"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 296.2,
+      "dec": 50.53,
+      "dist_pc": 1200,
+      "x": 336.8,
+      "y": -684.4,
+      "z": 926.3,
+      "angular_size_arcmin": 27,
+      "description": "A planetary nebula in Cygnus that appears to blink on and off as the observer alternates between direct and averted vision.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_3132",
+      "name": "Eight-Burst Nebula",
+      "catalog_ids": [
+        "NGC 3132"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 151.76,
+      "dec": -40.44,
+      "dist_pc": 640,
+      "x": -429.1,
+      "y": 230.5,
+      "z": -415.1,
+      "angular_size_arcmin": 84,
+      "description": "Also called the Southern Ring Nebula, JWST observations revealed at least two stars shaped this nebula's intricate ring structure.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2440",
+      "name": "NGC 2440",
+      "catalog_ids": [
+        "NGC 2440"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 115.44,
+      "dec": -18.21,
+      "dist_pc": 1200,
+      "x": -489.7,
+      "y": 1029.4,
+      "z": -375.0,
+      "angular_size_arcmin": 74,
+      "description": "A planetary nebula in Puppis whose central star is one of the hottest white dwarfs known, with a surface temperature exceeding 200,000 K.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6302",
+      "name": "Butterfly Nebula",
+      "catalog_ids": [
+        "NGC 6302"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 258.25,
+      "dec": -37.1,
+      "dist_pc": 1100,
+      "x": -178.7,
+      "y": -859.0,
+      "z": -663.5,
+      "angular_size_arcmin": 190,
+      "description": "A bipolar planetary nebula in Scorpius with a wingspan of over 3 light-years, ejected by one of the hottest known central stars.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7027",
+      "name": "NGC 7027",
+      "catalog_ids": [
+        "NGC 7027"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 316.76,
+      "dec": 42.24,
+      "dist_pc": 890,
+      "x": 480.0,
+      "y": -451.4,
+      "z": 598.3,
+      "angular_size_arcmin": 18,
+      "description": "One of the youngest and brightest planetary nebulae, only about 600 years old, with a complex multipolar structure.",
+      "texture_ref": null
+    },
+    {
+      "id": "ic_418",
+      "name": "Spirograph Nebula",
+      "catalog_ids": [
+        "IC 418"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 81.87,
+      "dec": -12.7,
+      "dist_pc": 400,
+      "x": 55.2,
+      "y": 386.3,
+      "z": -87.9,
+      "angular_size_arcmin": 12,
+      "description": "A young planetary nebula in Lepus with intricate patterns in its glowing gas that resemble a spirograph drawing.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2070",
+      "name": "Tarantula Nebula",
+      "catalog_ids": [
+        "NGC 2070",
+        "30 Doradus"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 84.68,
+      "dec": -69.1,
+      "dist_pc": 49970,
+      "x": 1652.8,
+      "y": 17749.4,
+      "z": -46682.2,
+      "angular_size_arcmin": 40,
+      "description": "The most luminous H II region in the Local Group, located in the Large Magellanic Cloud and home to the massive star cluster R136.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_604",
+      "name": "NGC 604",
+      "catalog_ids": [
+        "NGC 604"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 23.64,
+      "dec": 30.78,
+      "dist_pc": 840000,
+      "x": 661115.5,
+      "y": 289384.1,
+      "z": 429864.1,
+      "angular_size_arcmin": 2,
+      "description": "One of the largest H II regions known, located in the Triangulum Galaxy M33 and spanning roughly 1,500 light-years across.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1982",
+      "name": "De Mairan's Nebula",
+      "catalog_ids": [
+        "M43",
+        "NGC 1982"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 83.89,
+      "dec": -5.27,
+      "dist_pc": 412,
+      "x": 43.7,
+      "y": 407.9,
+      "z": -37.8,
+      "angular_size_arcmin": 20,
+      "description": "A smaller H II region separated from the main Orion Nebula by a dark dust lane, illuminated by the star NU Orionis.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1499",
+      "name": "California Nebula",
+      "catalog_ids": [
+        "NGC 1499"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 60.21,
+      "dec": 36.39,
+      "dist_pc": 300,
+      "x": 120.0,
+      "y": 209.6,
+      "z": 178.0,
+      "angular_size_arcmin": 145,
+      "description": "A large emission nebula in Perseus whose shape resembles the US state of California, ionized by the hot star Xi Persei.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2024",
+      "name": "Flame Nebula",
+      "catalog_ids": [
+        "NGC 2024"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 85.41,
+      "dec": -1.85,
+      "dist_pc": 400,
+      "x": 32.0,
+      "y": 398.5,
+      "z": -12.9,
+      "angular_size_arcmin": 30,
+      "description": "An emission nebula in Orion near Alnitak, whose dark dust lanes create a flame-like pattern against the bright hydrogen glow.",
+      "texture_ref": null
+    },
+    {
+      "id": "ic_5146",
+      "name": "Cocoon Nebula",
+      "catalog_ids": [
+        "IC 5146"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 325.15,
+      "dec": 47.27,
+      "dist_pc": 1000,
+      "x": 556.8,
+      "y": -387.7,
+      "z": 734.6,
+      "angular_size_arcmin": 12,
+      "description": "A compact emission and reflection nebula in Cygnus at the end of a long dark nebula known as Barnard 168.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7635",
+      "name": "Bubble Nebula",
+      "catalog_ids": [
+        "NGC 7635"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 350.2,
+      "dec": 61.2,
+      "dist_pc": 3400,
+      "x": 1614.1,
+      "y": -278.8,
+      "z": 2979.4,
+      "angular_size_arcmin": 15,
+      "description": "An emission nebula in Cassiopeia formed by the stellar wind from a massive O-type star inflating a shell of ionized gas.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6888",
+      "name": "Crescent Nebula",
+      "catalog_ids": [
+        "NGC 6888"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 303.06,
+      "dec": 38.35,
+      "dist_pc": 1500,
+      "x": 641.7,
+      "y": -985.9,
+      "z": 930.7,
+      "angular_size_arcmin": 25,
+      "description": "An emission nebula in Cygnus formed by the fast stellar wind of the Wolf-Rayet star WR 136 colliding with slower material ejected earlier.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2359",
+      "name": "Thor's Helmet",
+      "catalog_ids": [
+        "NGC 2359"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 109.27,
+      "dec": -13.22,
+      "dist_pc": 4600,
+      "x": -1477.9,
+      "y": 4227.2,
+      "z": -1052.0,
+      "angular_size_arcmin": 22,
+      "description": "A distinctive emission nebula in Canis Major shaped like a winged helmet, blown by the energetic Wolf-Rayet star WR 7.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6334",
+      "name": "Cat's Paw Nebula",
+      "catalog_ids": [
+        "NGC 6334"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 260.12,
+      "dec": -35.97,
+      "dist_pc": 1750,
+      "x": -243.0,
+      "y": -1395.3,
+      "z": -1027.9,
+      "angular_size_arcmin": 40,
+      "description": "A vast emission nebula in Scorpius whose reddish paw-print pattern is produced by ionized hydrogen in one of the most active nurseries in the Milky Way.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_3603",
+      "name": "NGC 3603",
+      "catalog_ids": [
+        "NGC 3603"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 168.22,
+      "dec": -61.26,
+      "dist_pc": 6000,
+      "x": -2824.3,
+      "y": 589.0,
+      "z": -5260.9,
+      "angular_size_arcmin": 12,
+      "description": "One of the most massive visible H II regions in the Milky Way, containing a compact starburst cluster with some of the most massive stars known.",
+      "texture_ref": null
+    },
+    {
+      "id": "ic_2177",
+      "name": "Seagull Nebula",
+      "catalog_ids": [
+        "IC 2177"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 105.75,
+      "dec": -10.45,
+      "dist_pc": 1100,
+      "x": -293.6,
+      "y": 1041.1,
+      "z": -199.5,
+      "angular_size_arcmin": 120,
+      "description": "A large emission nebula on the border of Monoceros and Canis Major whose shape resembles a seagull in flight.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6357",
+      "name": "War and Peace Nebula",
+      "catalog_ids": [
+        "NGC 6357"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 261.38,
+      "dec": -34.35,
+      "dist_pc": 1750,
+      "x": -216.5,
+      "y": -1428.5,
+      "z": -987.4,
+      "angular_size_arcmin": 40,
+      "description": "A diffuse emission nebula in Scorpius containing several massive star clusters and pillars of creation-like structures sculpted by intense radiation.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1491",
+      "name": "NGC 1491",
+      "catalog_ids": [
+        "NGC 1491"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 61.15,
+      "dec": 51.31,
+      "dist_pc": 3200,
+      "x": 965.2,
+      "y": 1752.1,
+      "z": 2497.7,
+      "angular_size_arcmin": 25,
+      "description": "A bright emission nebula in Perseus illuminated by the hot blue star BD+50 886, surrounded by dark molecular clouds.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_281",
+      "name": "Pacman Nebula",
+      "catalog_ids": [
+        "NGC 281"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 13.18,
+      "dec": 56.62,
+      "dist_pc": 2940,
+      "x": 1574.9,
+      "y": 368.8,
+      "z": 2455.0,
+      "angular_size_arcmin": 35,
+      "description": "An H II region in Cassiopeia named for its resemblance to the Pac-Man character, with prominent Bok globules and active star formation.",
+      "texture_ref": null
+    },
+    {
+      "id": "barnard_68",
+      "name": "Barnard 68",
+      "catalog_ids": [
+        "Barnard 68"
+      ],
+      "type": "nebula",
+      "subtype": "dark",
+      "ra": 259.2,
+      "dec": -23.95,
+      "dist_pc": 125,
+      "x": -21.4,
+      "y": -112.2,
+      "z": -50.7,
+      "angular_size_arcmin": 4,
+      "description": "A nearby isolated dark molecular cloud so dense that no background stars are visible through its center, yet remarkably well-defined against the starfield.",
+      "texture_ref": null
+    },
+    {
+      "id": "barnard_72",
+      "name": "Snake Nebula",
+      "catalog_ids": [
+        "Barnard 72"
+      ],
+      "type": "nebula",
+      "subtype": "dark",
+      "ra": 258.9,
+      "dec": -23.62,
+      "dist_pc": 200,
+      "x": -35.3,
+      "y": -179.8,
+      "z": -80.1,
+      "angular_size_arcmin": 4,
+      "description": "A sinuous dark nebula in Ophiuchus that winds through the star clouds like a snake, part of the Dark Horse complex.",
+      "texture_ref": null
+    },
+    {
+      "id": "coalsack",
+      "name": "Coalsack Nebula",
+      "catalog_ids": [
+        "Coalsack"
+      ],
+      "type": "nebula",
+      "subtype": "dark",
+      "ra": 192.0,
+      "dec": -63.0,
+      "dist_pc": 180,
+      "x": -79.9,
+      "y": -17.0,
+      "z": -160.4,
+      "angular_size_arcmin": 420,
+      "description": "The most prominent dark nebula in the sky, visible to the naked eye as a dark patch in the southern Milky Way near the Southern Cross.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1977",
+      "name": "Running Man Nebula",
+      "catalog_ids": [
+        "NGC 1977"
+      ],
+      "type": "nebula",
+      "subtype": "reflection",
+      "ra": 83.85,
+      "dec": -4.84,
+      "dist_pc": 412,
+      "x": 44.0,
+      "y": 408.2,
+      "z": -34.8,
+      "angular_size_arcmin": 40,
+      "description": "A reflection nebula just north of the Orion Nebula whose dust patterns suggest a running human figure in deep photographs.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2068",
+      "name": "M78",
+      "catalog_ids": [
+        "M78",
+        "NGC 2068"
+      ],
+      "type": "nebula",
+      "subtype": "reflection",
+      "ra": 86.68,
+      "dec": 0.08,
+      "dist_pc": 400,
+      "x": 23.2,
+      "y": 399.3,
+      "z": 0.6,
+      "angular_size_arcmin": 8,
+      "description": "The brightest diffuse reflection nebula in the sky, illuminated by two B-type stars and located in the Orion molecular cloud complex.",
+      "texture_ref": null
+    },
+    {
+      "id": "ic_2118",
+      "name": "Witch Head Nebula",
+      "catalog_ids": [
+        "IC 2118"
+      ],
+      "type": "nebula",
+      "subtype": "reflection",
+      "ra": 77.16,
+      "dec": -7.95,
+      "dist_pc": 280,
+      "x": 61.6,
+      "y": 270.4,
+      "z": -38.7,
+      "angular_size_arcmin": 180,
+      "description": "A faint reflection nebula in Eridanus illuminated by the nearby supergiant star Rigel, whose shape suggests a witch's profile.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1333",
+      "name": "NGC 1333",
+      "catalog_ids": [
+        "NGC 1333"
+      ],
+      "type": "nebula",
+      "subtype": "reflection",
+      "ra": 52.3,
+      "dec": 31.35,
+      "dist_pc": 300,
+      "x": 156.7,
+      "y": 202.7,
+      "z": 156.1,
+      "angular_size_arcmin": 6,
+      "description": "A young reflection nebula in Perseus that is one of the nearest active star-forming regions, containing numerous Herbig-Haro objects.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7023",
+      "name": "Iris Nebula",
+      "catalog_ids": [
+        "NGC 7023"
+      ],
+      "type": "nebula",
+      "subtype": "reflection",
+      "ra": 315.39,
+      "dec": 68.17,
+      "dist_pc": 390,
+      "x": 103.2,
+      "y": -101.8,
+      "z": 362.0,
+      "angular_size_arcmin": 18,
+      "description": "A bright reflection nebula in Cepheus surrounded by a large dusty region, illuminated by the young star HD 200775.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_650",
+      "name": "Little Dumbbell Nebula",
+      "catalog_ids": [
+        "M76",
+        "NGC 650",
+        "NGC 651"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 25.58,
+      "dec": 51.58,
+      "dist_pc": 780,
+      "x": 437.2,
+      "y": 209.3,
+      "z": 611.1,
+      "angular_size_arcmin": 163,
+      "description": "A bipolar planetary nebula in Perseus that is one of the faintest Messier objects, resembling a miniature version of M27.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6781",
+      "name": "NGC 6781",
+      "catalog_ids": [
+        "NGC 6781"
+      ],
+      "type": "nebula",
+      "subtype": "planetary",
+      "ra": 289.61,
+      "dec": 6.54,
+      "dist_pc": 950,
+      "x": 316.8,
+      "y": -889.1,
+      "z": 108.2,
+      "angular_size_arcmin": 109,
+      "description": "A large planetary nebula in Aquila with a barrel-shaped structure seen nearly pole-on, giving it a distinctive cylindrical appearance.",
+      "texture_ref": null
+    },
+    {
+      "id": "sh2_106",
+      "name": "Sh2-106",
+      "catalog_ids": [
+        "Sh2-106",
+        "S106"
+      ],
+      "type": "nebula",
+      "subtype": "emission",
+      "ra": 306.18,
+      "dec": 37.38,
+      "dist_pc": 600,
+      "x": 281.5,
+      "y": -384.8,
+      "z": 364.3,
+      "angular_size_arcmin": 3,
+      "description": "A compact bipolar emission nebula in Cygnus shaped like an hourglass, with a massive young star at its narrow waist driving powerful outflows.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6205",
+      "name": "Great Globular Cluster in Hercules",
+      "catalog_ids": [
+        "M13",
+        "NGC 6205"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 250.42,
+      "dec": 36.46,
+      "dist_pc": 6800,
+      "x": -1832.8,
+      "y": -5152.8,
+      "z": 4041.0,
+      "angular_size_arcmin": 20,
+      "star_count": 300000,
+      "description": "One of the best-known globular clusters in the northern sky, containing several hundred thousand stars packed into a region about 145 light-years across.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_5272",
+      "name": "M3",
+      "catalog_ids": [
+        "M3",
+        "NGC 5272"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 205.55,
+      "dec": 28.38,
+      "dist_pc": 10200,
+      "x": -8096.5,
+      "y": -3870.5,
+      "z": 4848.2,
+      "angular_size_arcmin": 18,
+      "star_count": 500000,
+      "description": "One of the largest and brightest globular clusters, containing the most variable stars of any known cluster with over 270 identified.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_5904",
+      "name": "M5",
+      "catalog_ids": [
+        "M5",
+        "NGC 5904"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 229.64,
+      "dec": 2.08,
+      "dist_pc": 7500,
+      "x": -4853.7,
+      "y": -5711.2,
+      "z": 272.2,
+      "angular_size_arcmin": 23,
+      "star_count": 100000,
+      "description": "One of the oldest globular clusters at roughly 13 billion years, containing over 100 known variable stars and a millisecond pulsar.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7078",
+      "name": "M15",
+      "catalog_ids": [
+        "M15",
+        "NGC 7078"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 322.49,
+      "dec": 12.17,
+      "dist_pc": 10400,
+      "x": 8064.4,
+      "y": -6190.2,
+      "z": 2192.5,
+      "angular_size_arcmin": 18,
+      "star_count": 100000,
+      "description": "One of the densest globular clusters known, possibly harboring a central intermediate-mass black hole and containing the planetary nebula Pease 1.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6656",
+      "name": "M22",
+      "catalog_ids": [
+        "M22",
+        "NGC 6656"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 279.1,
+      "dec": -23.9,
+      "dist_pc": 3200,
+      "x": 462.7,
+      "y": -2888.8,
+      "z": -1296.5,
+      "angular_size_arcmin": 32,
+      "star_count": 70000,
+      "description": "One of the nearest globular clusters to Earth and one of the first to be discovered, notable for containing two stellar-mass black holes.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6121",
+      "name": "M4",
+      "catalog_ids": [
+        "M4",
+        "NGC 6121"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 245.9,
+      "dec": -26.53,
+      "dist_pc": 2200,
+      "x": -803.7,
+      "y": -1796.8,
+      "z": -982.7,
+      "angular_size_arcmin": 36,
+      "star_count": 100000,
+      "description": "The nearest globular cluster to Earth, located adjacent to Antares, and the first globular in which individual stars were resolved.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_7089",
+      "name": "M2",
+      "catalog_ids": [
+        "M2",
+        "NGC 7089"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 323.36,
+      "dec": -0.82,
+      "dist_pc": 11500,
+      "x": 9226.7,
+      "y": -6862.3,
+      "z": -164.6,
+      "angular_size_arcmin": 16,
+      "star_count": 150000,
+      "description": "One of the largest known globular clusters spanning about 175 light-years, noted for its rich and compact core.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6341",
+      "name": "M92",
+      "catalog_ids": [
+        "M92",
+        "NGC 6341"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 259.28,
+      "dec": 43.14,
+      "dist_pc": 8300,
+      "x": -1126.5,
+      "y": -5950.7,
+      "z": 5675.4,
+      "angular_size_arcmin": 14,
+      "star_count": 330000,
+      "description": "One of the oldest and brightest globular clusters in the Milky Way, often overlooked due to its proximity to the more famous M13.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6093",
+      "name": "M80",
+      "catalog_ids": [
+        "M80",
+        "NGC 6093"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 244.26,
+      "dec": -22.97,
+      "dist_pc": 10000,
+      "x": -3998.5,
+      "y": -8293.5,
+      "z": -3902.5,
+      "angular_size_arcmin": 10,
+      "star_count": 200000,
+      "description": "A dense globular cluster in Scorpius where a nova was observed in 1860, one of only two novae ever seen in a globular cluster.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_5139",
+      "name": "Omega Centauri",
+      "catalog_ids": [
+        "NGC 5139"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 201.7,
+      "dec": -47.48,
+      "dist_pc": 5400,
+      "x": -3390.9,
+      "y": -1349.4,
+      "z": -3980.0,
+      "angular_size_arcmin": 36,
+      "star_count": 10000000,
+      "description": "The largest and most massive globular cluster in the Milky Way, with roughly ten million stars, suspected to be the remnant nucleus of a dwarf galaxy.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_104",
+      "name": "47 Tucanae",
+      "catalog_ids": [
+        "NGC 104",
+        "47 Tuc"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 6.02,
+      "dec": -72.08,
+      "dist_pc": 4500,
+      "x": 1377.0,
+      "y": 145.2,
+      "z": -4281.7,
+      "angular_size_arcmin": 31,
+      "star_count": 1000000,
+      "description": "The second brightest globular cluster after Omega Centauri, famous for its dense core and large population of millisecond pulsars.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6752",
+      "name": "NGC 6752",
+      "catalog_ids": [
+        "NGC 6752"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 287.72,
+      "dec": -59.98,
+      "dist_pc": 4000,
+      "x": 609.1,
+      "y": -1906.3,
+      "z": -3463.4,
+      "angular_size_arcmin": 29,
+      "star_count": 100000,
+      "description": "The third brightest globular cluster in the sky, one of the nearest, containing a large population of blue stragglers in its core.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6809",
+      "name": "M55",
+      "catalog_ids": [
+        "M55",
+        "NGC 6809"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 294.99,
+      "dec": -30.96,
+      "dist_pc": 5400,
+      "x": 1956.3,
+      "y": -4197.1,
+      "z": -2778.0,
+      "angular_size_arcmin": 19,
+      "star_count": 100000,
+      "description": "A large but loosely concentrated globular cluster in Sagittarius, relatively easy to resolve into individual stars due to its open structure.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6254",
+      "name": "M10",
+      "catalog_ids": [
+        "M10",
+        "NGC 6254"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 254.29,
+      "dec": -4.1,
+      "dist_pc": 4400,
+      "x": -1188.3,
+      "y": -4224.8,
+      "z": -314.6,
+      "angular_size_arcmin": 20,
+      "star_count": 100000,
+      "description": "A globular cluster in Ophiuchus slightly closer and brighter than its neighbor M12, with a moderately dense core.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6218",
+      "name": "M12",
+      "catalog_ids": [
+        "M12",
+        "NGC 6218"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 251.81,
+      "dec": -1.95,
+      "dist_pc": 4900,
+      "x": -1528.7,
+      "y": -4652.4,
+      "z": -166.7,
+      "angular_size_arcmin": 16,
+      "star_count": 200000,
+      "description": "A globular cluster in Ophiuchus with an unusually low proportion of low-mass stars, likely stripped by tidal interactions with the Milky Way.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6171",
+      "name": "M107",
+      "catalog_ids": [
+        "M107",
+        "NGC 6171"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 248.13,
+      "dec": -13.05,
+      "dist_pc": 6400,
+      "x": -2322.4,
+      "y": -5786.0,
+      "z": -1445.1,
+      "angular_size_arcmin": 13,
+      "star_count": 200000,
+      "description": "One of the more open and less concentrated globular clusters, making individual stars relatively easy to resolve even in moderate telescopes.",
+      "texture_ref": null
+    },
+    {
+      "id": "palomar_5",
+      "name": "Palomar 5",
+      "catalog_ids": [
+        "Palomar 5"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 229.02,
+      "dec": -0.11,
+      "dist_pc": 23200,
+      "x": -15214.4,
+      "y": -17514.5,
+      "z": -44.5,
+      "angular_size_arcmin": 8,
+      "star_count": 10000,
+      "description": "A sparse and disrupted globular cluster famous for its spectacular tidal tails stretching over 30,000 light-years, revealing ongoing tidal stripping.",
+      "texture_ref": null
+    },
+    {
+      "id": "terzan_7",
+      "name": "Terzan 7",
+      "catalog_ids": [
+        "Terzan 7"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 289.43,
+      "dec": -34.66,
+      "dist_pc": 23000,
+      "x": 6293.3,
+      "y": -17841.0,
+      "z": -13080.2,
+      "angular_size_arcmin": 4,
+      "star_count": 50000,
+      "description": "A globular cluster associated with the Sagittarius Dwarf Elliptical Galaxy, being accreted by the Milky Way along with its parent galaxy.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1904",
+      "name": "M79",
+      "catalog_ids": [
+        "M79",
+        "NGC 1904"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 81.04,
+      "dec": -24.52,
+      "dist_pc": 12900,
+      "x": 1827.9,
+      "y": 11593.4,
+      "z": -5353.6,
+      "angular_size_arcmin": 9,
+      "star_count": 100000,
+      "description": "An unusually isolated globular cluster in Lepus, far from the galactic center, thought to have been captured from the Canis Major Dwarf Galaxy.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2808",
+      "name": "NGC 2808",
+      "catalog_ids": [
+        "NGC 2808"
+      ],
+      "type": "cluster",
+      "subtype": "globular",
+      "ra": 138.01,
+      "dec": -64.86,
+      "dist_pc": 9600,
+      "x": -3031.3,
+      "y": 2728.4,
+      "z": -8690.6,
+      "angular_size_arcmin": 14,
+      "star_count": 200000,
+      "description": "A massive globular cluster with at least three distinct generations of stars, challenging traditional models of single-burst globular cluster formation.",
+      "texture_ref": null
+    },
+    {
+      "id": "mel_22",
+      "name": "Pleiades",
+      "catalog_ids": [
+        "M45",
+        "Mel 22"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 56.75,
+      "dec": 24.12,
+      "dist_pc": 136,
+      "x": 68.1,
+      "y": 103.8,
+      "z": 55.6,
+      "angular_size_arcmin": 110,
+      "star_count": 1000,
+      "description": "The most famous open cluster in the sky, known since antiquity, containing hot blue stars surrounded by faint reflection nebulosity.",
+      "texture_ref": null
+    },
+    {
+      "id": "mel_25",
+      "name": "Hyades",
+      "catalog_ids": [
+        "Mel 25",
+        "Caldwell 41"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 66.75,
+      "dec": 15.87,
+      "dist_pc": 46,
+      "x": 17.5,
+      "y": 40.7,
+      "z": 12.6,
+      "angular_size_arcmin": 330,
+      "star_count": 400,
+      "description": "The nearest open cluster to the Sun and one of the best-studied, forming the distinctive V-shape of the head of Taurus.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2632",
+      "name": "Praesepe",
+      "catalog_ids": [
+        "M44",
+        "NGC 2632",
+        "Beehive Cluster"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 130.03,
+      "dec": 19.67,
+      "dist_pc": 187,
+      "x": -113.3,
+      "y": 134.8,
+      "z": 62.9,
+      "angular_size_arcmin": 95,
+      "star_count": 1000,
+      "description": "One of the nearest open clusters, visible to the naked eye as a misty patch in Cancer, known since antiquity as the Beehive.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_869",
+      "name": "Double Cluster",
+      "catalog_ids": [
+        "NGC 869",
+        "NGC 884"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 34.75,
+      "dec": 57.13,
+      "dist_pc": 2300,
+      "x": 1025.7,
+      "y": 711.5,
+      "z": 1931.8,
+      "angular_size_arcmin": 30,
+      "star_count": 600,
+      "description": "A pair of open clusters in Perseus visible to the naked eye, each containing several hundred young blue-white supergiants.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6705",
+      "name": "Wild Duck Cluster",
+      "catalog_ids": [
+        "M11",
+        "NGC 6705"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 282.77,
+      "dec": -6.27,
+      "dist_pc": 1877,
+      "x": 412.4,
+      "y": -1819.6,
+      "z": -205.0,
+      "angular_size_arcmin": 14,
+      "star_count": 2900,
+      "description": "One of the richest and most compact open clusters known, whose fan-shaped outline resembles a flock of wild ducks in flight.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_4755",
+      "name": "Jewel Box Cluster",
+      "catalog_ids": [
+        "NGC 4755",
+        "Kappa Crucis"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 193.48,
+      "dec": -60.37,
+      "dist_pc": 1976,
+      "x": -950.0,
+      "y": -227.7,
+      "z": -1717.6,
+      "angular_size_arcmin": 10,
+      "star_count": 100,
+      "description": "A young open cluster near Beta Crucis containing stars of contrasting colors — blue, white, and a prominent red supergiant — resembling scattered jewels.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6405",
+      "name": "Butterfly Cluster",
+      "catalog_ids": [
+        "M6",
+        "NGC 6405"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 265.08,
+      "dec": -32.22,
+      "dist_pc": 491,
+      "x": -35.6,
+      "y": -413.9,
+      "z": -261.8,
+      "angular_size_arcmin": 25,
+      "star_count": 80,
+      "description": "An open cluster in Scorpius whose pattern of stars resembles the outline of a butterfly with open wings.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_6475",
+      "name": "Ptolemy's Cluster",
+      "catalog_ids": [
+        "M7",
+        "NGC 6475"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 268.46,
+      "dec": -34.79,
+      "dist_pc": 300,
+      "x": -6.6,
+      "y": -246.3,
+      "z": -171.2,
+      "angular_size_arcmin": 80,
+      "star_count": 80,
+      "description": "A large bright open cluster recorded by Ptolemy in 130 AD, one of the most prominent clusters visible to the naked eye.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2168",
+      "name": "M35",
+      "catalog_ids": [
+        "M35",
+        "NGC 2168"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 92.25,
+      "dec": 24.33,
+      "dist_pc": 912,
+      "x": -32.6,
+      "y": 830.4,
+      "z": 375.7,
+      "angular_size_arcmin": 28,
+      "star_count": 2500,
+      "description": "A rich open cluster in Gemini visible to the naked eye, with the much more distant cluster NGC 2158 appearing nearby in the same field of view.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2099",
+      "name": "M37",
+      "catalog_ids": [
+        "M37",
+        "NGC 2099"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 88.07,
+      "dec": 32.55,
+      "dist_pc": 1383,
+      "x": 39.3,
+      "y": 1165.1,
+      "z": 744.1,
+      "angular_size_arcmin": 24,
+      "star_count": 500,
+      "description": "The richest and brightest of the three open clusters in Auriga, containing about a dozen red giants among its hundreds of members.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1960",
+      "name": "M36",
+      "catalog_ids": [
+        "M36",
+        "NGC 1960"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 84.08,
+      "dec": 34.14,
+      "dist_pc": 1200,
+      "x": 102.4,
+      "y": 987.9,
+      "z": 673.5,
+      "angular_size_arcmin": 12,
+      "star_count": 60,
+      "description": "A compact open cluster in Auriga with a handful of bright B-type stars, resembling a scaled-down version of the Pleiades.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_1912",
+      "name": "M38",
+      "catalog_ids": [
+        "M38",
+        "NGC 1912"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 82.17,
+      "dec": 35.85,
+      "dist_pc": 1066,
+      "x": 117.7,
+      "y": 856.0,
+      "z": 624.3,
+      "angular_size_arcmin": 21,
+      "star_count": 100,
+      "description": "An open cluster in Auriga whose brightest stars form a distinctive cross or oblique pi pattern.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_3532",
+      "name": "Wishing Well Cluster",
+      "catalog_ids": [
+        "NGC 3532"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 166.41,
+      "dec": -58.73,
+      "dist_pc": 484,
+      "x": -244.2,
+      "y": 59.0,
+      "z": -413.7,
+      "angular_size_arcmin": 55,
+      "star_count": 150,
+      "description": "A rich open cluster in Carina described by John Herschel as the finest cluster in the sky, and the first target observed by the Hubble Space Telescope.",
+      "texture_ref": null
+    },
+    {
+      "id": "ngc_2682",
+      "name": "M67",
+      "catalog_ids": [
+        "M67",
+        "NGC 2682"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 132.85,
+      "dec": 11.8,
+      "dist_pc": 908,
+      "x": -604.5,
+      "y": 651.6,
+      "z": 185.7,
+      "angular_size_arcmin": 30,
+      "star_count": 500,
+      "description": "One of the oldest known open clusters at about 4 billion years, with a chemical composition remarkably similar to the Sun.",
+      "texture_ref": null
+    },
+    {
+      "id": "ic_2602",
+      "name": "Southern Pleiades",
+      "catalog_ids": [
+        "IC 2602"
+      ],
+      "type": "cluster",
+      "subtype": "open",
+      "ra": 160.74,
+      "dec": -64.4,
+      "dist_pc": 152,
+      "x": -62.0,
+      "y": 21.7,
+      "z": -137.1,
+      "angular_size_arcmin": 100,
+      "star_count": 60,
+      "description": "A bright open cluster in Carina centered on the third-magnitude star Theta Carinae, easily visible to the naked eye from the Southern Hemisphere.",
+      "texture_ref": null
+    },
+    {
+      "id": "sgr_a_star",
+      "name": "Sagittarius A*",
+      "catalog_ids": [
+        "Sgr A*"
+      ],
+      "type": "blackhole",
+      "subtype": "supermassive",
+      "ra": 266.42,
+      "dec": -29.01,
+      "dist_pc": 8178,
+      "x": -446.6,
+      "y": -7138.0,
+      "z": -3966.0,
+      "mass_solar": 4000000,
+      "description": "The supermassive black hole at the center of the Milky Way, imaged by the Event Horizon Telescope in 2022 with a mass of four million Suns.",
+      "texture_ref": null
+    },
+    {
+      "id": "cygnus_x1",
+      "name": "Cygnus X-1",
+      "catalog_ids": [
+        "Cyg X-1",
+        "HDE 226868"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 299.59,
+      "dec": 35.2,
+      "dist_pc": 1860,
+      "x": 750.5,
+      "y": -1321.7,
+      "z": 1072.2,
+      "mass_solar": 21,
+      "description": "The first widely accepted stellar-mass black hole, a high-mass X-ray binary whose identification settled a famous bet between Stephen Hawking and Kip Thorne.",
+      "texture_ref": null
+    },
+    {
+      "id": "v404_cygni",
+      "name": "V404 Cygni",
+      "catalog_ids": [
+        "V404 Cyg",
+        "GS 2023+338"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 306.02,
+      "dec": 33.87,
+      "dist_pc": 2390,
+      "x": 1167.0,
+      "y": -1605.0,
+      "z": 1332.0,
+      "mass_solar": 9,
+      "description": "A low-mass X-ray binary that underwent dramatic outbursts in 1989 and 2015, providing some of the best dynamical mass measurements for a stellar black hole.",
+      "texture_ref": null
+    },
+    {
+      "id": "a0620_00",
+      "name": "A0620-00",
+      "catalog_ids": [
+        "A0620-00",
+        "V616 Mon"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 95.69,
+      "dec": -0.35,
+      "dist_pc": 1060,
+      "x": -105.1,
+      "y": 1054.8,
+      "z": -6.5,
+      "mass_solar": 6.6,
+      "description": "A soft X-ray transient that produced the brightest X-ray outburst ever recorded in 1975, containing one of the nearest known black holes.",
+      "texture_ref": null
+    },
+    {
+      "id": "grs_1915_105",
+      "name": "GRS 1915+105",
+      "catalog_ids": [
+        "GRS 1915+105"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 288.8,
+      "dec": 10.95,
+      "dist_pc": 8600,
+      "x": 2721.0,
+      "y": -7993.0,
+      "z": 1633.6,
+      "mass_solar": 12.4,
+      "description": "The first Galactic source found to exhibit apparent superluminal jet motion, with highly variable X-ray emission showing over a dozen distinct patterns.",
+      "texture_ref": null
+    },
+    {
+      "id": "lmc_x3",
+      "name": "LMC X-3",
+      "catalog_ids": [
+        "LMC X-3"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 84.74,
+      "dec": -64.08,
+      "dist_pc": 49970,
+      "x": 2002.4,
+      "y": 21750.7,
+      "z": -44943.3,
+      "mass_solar": 7,
+      "description": "One of the first stellar-mass black hole candidates identified, located in the Large Magellanic Cloud in a persistent X-ray binary system.",
+      "texture_ref": null
+    },
+    {
+      "id": "gx_339_4",
+      "name": "GX 339-4",
+      "catalog_ids": [
+        "GX 339-4"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 255.71,
+      "dec": -48.79,
+      "dist_pc": 2400,
+      "x": -390.3,
+      "y": -1532.2,
+      "z": -1805.5,
+      "mass_solar": 6,
+      "description": "A recurrent X-ray transient that has undergone numerous outbursts, serving as a key laboratory for studying black hole accretion state transitions.",
+      "texture_ref": null
+    },
+    {
+      "id": "xte_j1118_480",
+      "name": "XTE J1118+480",
+      "catalog_ids": [
+        "XTE J1118+480"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 169.55,
+      "dec": 48.04,
+      "dist_pc": 1720,
+      "x": -1130.9,
+      "y": 208.6,
+      "z": 1279.0,
+      "mass_solar": 6.8,
+      "description": "A black hole X-ray binary at high galactic latitude, possibly originating from the galactic halo or kicked out of the disk by a supernova.",
+      "texture_ref": null
+    },
+    {
+      "id": "m87_star",
+      "name": "M87*",
+      "catalog_ids": [
+        "M87*",
+        "Pōwehi"
+      ],
+      "type": "blackhole",
+      "subtype": "supermassive",
+      "ra": 187.71,
+      "dec": 12.39,
+      "dist_pc": 16400000,
+      "x": -15873233.5,
+      "y": -2148966.5,
+      "z": 3518863.7,
+      "mass_solar": 6500000000,
+      "description": "The supermassive black hole at the center of the giant elliptical galaxy M87, the first black hole ever directly imaged by the Event Horizon Telescope in 2019.",
+      "texture_ref": null
+    },
+    {
+      "id": "ss_433",
+      "name": "SS 433",
+      "catalog_ids": [
+        "SS 433",
+        "V1343 Aql"
+      ],
+      "type": "blackhole",
+      "subtype": "stellar",
+      "ra": 287.96,
+      "dec": 4.98,
+      "dist_pc": 5500,
+      "x": 1689.5,
+      "y": -5212.2,
+      "z": 477.4,
+      "mass_solar": 4.3,
+      "description": "A remarkable eclipsing X-ray binary with precessing relativistic jets moving at 26% the speed of light, embedded within the supernova remnant W50.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b0531_21",
+      "name": "Crab Pulsar",
+      "catalog_ids": [
+        "PSR B0531+21",
+        "PSR J0534+2200"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 83.63,
+      "dec": 22.01,
+      "dist_pc": 2000,
+      "x": 205.7,
+      "y": 1842.8,
+      "z": 749.5,
+      "period_ms": 33.5,
+      "description": "A young and energetic pulsar at the heart of the Crab Nebula, one of the few pulsars detectable across the entire electromagnetic spectrum.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b0833_45",
+      "name": "Vela Pulsar",
+      "catalog_ids": [
+        "PSR B0833-45",
+        "PSR J0835-4510"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 128.84,
+      "dec": -45.18,
+      "dist_pc": 290,
+      "x": -128.2,
+      "y": 159.2,
+      "z": -205.7,
+      "period_ms": 89.3,
+      "description": "One of the nearest and brightest pulsars, embedded in the Vela supernova remnant and famous for exhibiting large glitches in its rotation period.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b1919_21",
+      "name": "PSR B1919+21",
+      "catalog_ids": [
+        "PSR B1919+21",
+        "PSR J1921+2153"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 290.47,
+      "dec": 21.91,
+      "dist_pc": 390,
+      "x": 126.5,
+      "y": -339.0,
+      "z": 145.5,
+      "period_ms": 1337,
+      "description": "The first pulsar ever discovered, found by Jocelyn Bell Burnell in 1967, initially designated LGM-1 for Little Green Men.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j0437_4715",
+      "name": "PSR J0437-4715",
+      "catalog_ids": [
+        "PSR J0437-4715"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 69.32,
+      "dec": -47.25,
+      "dist_pc": 156,
+      "x": 37.4,
+      "y": 99.1,
+      "z": -114.6,
+      "period_ms": 5.76,
+      "description": "The nearest and brightest millisecond pulsar, extensively used for pulsar timing array gravitational wave detection experiments.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b1257_12",
+      "name": "PSR B1257+12",
+      "catalog_ids": [
+        "PSR B1257+12",
+        "Lich"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 195.01,
+      "dec": 12.68,
+      "dist_pc": 710,
+      "x": -669.1,
+      "y": -179.4,
+      "z": 155.8,
+      "period_ms": 6.22,
+      "description": "A millisecond pulsar orbited by the first confirmed exoplanets ever discovered, announced in 1992, predating the first main-sequence exoplanet discovery.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j0633_1746",
+      "name": "Geminga",
+      "catalog_ids": [
+        "PSR J0633+1746",
+        "Geminga"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 98.48,
+      "dec": 17.77,
+      "dist_pc": 250,
+      "x": -35.1,
+      "y": 235.5,
+      "z": 76.3,
+      "period_ms": 237,
+      "description": "A nearby gamma-ray pulsar whose name is a play on a Milanese dialect phrase meaning 'it's not there,' reflecting its initial lack of radio emission.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j0030_0451",
+      "name": "PSR J0030+0451",
+      "catalog_ids": [
+        "PSR J0030+0451"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 7.61,
+      "dec": 4.86,
+      "dist_pc": 325,
+      "x": 321.0,
+      "y": 42.9,
+      "z": 27.5,
+      "period_ms": 4.87,
+      "description": "A millisecond pulsar whose X-ray hot spots were mapped by NICER, providing the first precise measurement of a neutron star's size and shape.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j1614_2230",
+      "name": "PSR J1614-2230",
+      "catalog_ids": [
+        "PSR J1614-2230"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 243.65,
+      "dec": -22.51,
+      "dist_pc": 700,
+      "x": -287.0,
+      "y": -579.5,
+      "z": -268.0,
+      "period_ms": 3.15,
+      "description": "A massive neutron star whose precise mass measurement of nearly two solar masses ruled out many soft equations of state for nuclear matter.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j0348_0432",
+      "name": "PSR J0348+0432",
+      "catalog_ids": [
+        "PSR J0348+0432"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 57.17,
+      "dec": 4.54,
+      "dist_pc": 2100,
+      "x": 1134.9,
+      "y": 1759.1,
+      "z": 166.2,
+      "period_ms": 39.1,
+      "description": "A massive pulsar in a compact orbit with a white dwarf, providing stringent tests of general relativity in the strong-field regime.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j0737_3039a",
+      "name": "PSR J0737-3039A",
+      "catalog_ids": [
+        "PSR J0737-3039A",
+        "PSR J0737-3039B"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 114.3,
+      "dec": -30.66,
+      "dist_pc": 1100,
+      "x": -389.4,
+      "y": 862.4,
+      "z": -560.9,
+      "period_ms": 22.7,
+      "description": "The only known double pulsar system, providing the most precise tests of general relativity in strong gravitational fields to date.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b1937_21",
+      "name": "PSR B1937+21",
+      "catalog_ids": [
+        "PSR B1937+21",
+        "PSR J1939+2134"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 294.91,
+      "dec": 21.58,
+      "dist_pc": 3600,
+      "x": 1410.0,
+      "y": -3036.2,
+      "z": 1324.1,
+      "period_ms": 1.56,
+      "description": "The first millisecond pulsar discovered in 1982, spinning at 642 revolutions per second, which held the fastest pulsar record for 24 years.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j1748_2446ad",
+      "name": "PSR J1748-2446ad",
+      "catalog_ids": [
+        "PSR J1748-2446ad"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 267.02,
+      "dec": -24.78,
+      "dist_pc": 8000,
+      "x": -377.6,
+      "y": -7253.6,
+      "z": -3353.1,
+      "period_ms": 1.4,
+      "description": "The fastest-spinning known pulsar at 716 Hz, located in the globular cluster Terzan 5, with its equator moving at nearly 24% the speed of light.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j0205_6449",
+      "name": "PSR J0205+6449",
+      "catalog_ids": [
+        "PSR J0205+6449"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 31.41,
+      "dec": 64.83,
+      "dist_pc": 3200,
+      "x": 1161.5,
+      "y": 709.3,
+      "z": 2896.2,
+      "period_ms": 65.7,
+      "description": "A young pulsar at the center of the supernova remnant 3C 58, possibly associated with the historical supernova of 1181 AD recorded by Chinese and Japanese astronomers.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b1509_58",
+      "name": "PSR B1509-58",
+      "catalog_ids": [
+        "PSR B1509-58",
+        "PSR J1513-5908"
+      ],
+      "type": "pulsar",
+      "subtype": "x-ray",
+      "ra": 228.48,
+      "dec": -59.14,
+      "dist_pc": 5200,
+      "x": -1768.1,
+      "y": -1997.1,
+      "z": -4463.8,
+      "period_ms": 150,
+      "description": "A young X-ray pulsar producing a spectacular pulsar wind nebula imaged by Chandra, whose shape resembles a cosmic hand reaching across space.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j2124_3358",
+      "name": "PSR J2124-3358",
+      "catalog_ids": [
+        "PSR J2124-3358"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 321.02,
+      "dec": -33.97,
+      "dist_pc": 410,
+      "x": 264.3,
+      "y": -213.9,
+      "z": -229.1,
+      "period_ms": 4.93,
+      "description": "An isolated millisecond pulsar with a distinctive bow-shock nebula created by its high-velocity motion through the interstellar medium.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j1023_0038",
+      "name": "PSR J1023+0038",
+      "catalog_ids": [
+        "PSR J1023+0038"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 155.95,
+      "dec": 0.64,
+      "dist_pc": 1370,
+      "x": -1251.0,
+      "y": 558.3,
+      "z": 15.3,
+      "period_ms": 1.69,
+      "description": "A transitional millisecond pulsar that switches between accretion-powered and rotation-powered states, providing a direct link between X-ray binaries and millisecond pulsars.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b0656_14",
+      "name": "PSR B0656+14",
+      "catalog_ids": [
+        "PSR B0656+14",
+        "PSR J0659+1414"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 104.95,
+      "dec": 14.24,
+      "dist_pc": 288,
+      "x": -72.0,
+      "y": 269.7,
+      "z": 70.8,
+      "period_ms": 385,
+      "description": "A middle-aged pulsar in the Monogem Ring supernova remnant, one of the few pulsars detected in optical, X-ray, and gamma-ray wavelengths.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j1846_0258",
+      "name": "PSR J1846-0258",
+      "catalog_ids": [
+        "PSR J1846-0258"
+      ],
+      "type": "pulsar",
+      "subtype": "x-ray",
+      "ra": 281.6,
+      "dec": -2.97,
+      "dist_pc": 6000,
+      "x": 1204.8,
+      "y": -5869.6,
+      "z": -310.9,
+      "period_ms": 326,
+      "description": "A young high-magnetic-field pulsar in the supernova remnant Kes 75 that exhibited magnetar-like bursts in 2006, blurring the line between pulsars and magnetars.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_b0950_08",
+      "name": "PSR B0950+08",
+      "catalog_ids": [
+        "PSR B0950+08",
+        "PSR J0953+0755"
+      ],
+      "type": "pulsar",
+      "subtype": "radio",
+      "ra": 148.29,
+      "dec": 7.93,
+      "dist_pc": 262,
+      "x": -220.8,
+      "y": 136.4,
+      "z": 36.1,
+      "period_ms": 253,
+      "description": "One of the nearest and first pulsars discovered, notable for giant pulse emission and serving as an important calibrator for interstellar dispersion studies.",
+      "texture_ref": null
+    },
+    {
+      "id": "psr_j1740_5340",
+      "name": "PSR J1740-5340",
+      "catalog_ids": [
+        "PSR J1740-5340"
+      ],
+      "type": "pulsar",
+      "subtype": "millisecond",
+      "ra": 265.2,
+      "dec": -53.67,
+      "dist_pc": 3400,
+      "x": -168.6,
+      "y": -2007.2,
+      "z": -2739.1,
+      "period_ms": 3.65,
+      "description": "A millisecond pulsar in the globular cluster NGC 6397 in an eclipsing binary with a bloated red companion, regularly obscured by the companion's wind.",
+      "texture_ref": null
+    },
+    {
+      "id": "sgr_1806_20",
+      "name": "SGR 1806-20",
+      "catalog_ids": [
+        "SGR 1806-20"
+      ],
+      "type": "magnetar",
+      "subtype": "sgr",
+      "ra": 272.16,
+      "dec": -20.41,
+      "dist_pc": 8700,
+      "x": 307.3,
+      "y": -8148.0,
+      "z": -3034.0,
+      "period_s": 7.56,
+      "magnetic_field_T": 200000000000.0,
+      "description": "Source of the most energetic gamma-ray flare ever recorded from within the Milky Way on December 27, 2004, briefly outshining the entire galaxy.",
+      "texture_ref": null
+    },
+    {
+      "id": "sgr_1900_14",
+      "name": "SGR 1900+14",
+      "catalog_ids": [
+        "SGR 1900+14"
+      ],
+      "type": "magnetar",
+      "subtype": "sgr",
+      "ra": 286.81,
+      "dec": 9.32,
+      "dist_pc": 12500,
+      "x": 3567.3,
+      "y": -11807.9,
+      "z": 2024.4,
+      "period_s": 5.16,
+      "magnetic_field_T": 70000000000.0,
+      "description": "A soft gamma repeater that produced a giant flare in 1998 strong enough to ionize Earth's upper atmosphere from 20,000 light-years away.",
+      "texture_ref": null
+    },
+    {
+      "id": "1e_2259_586",
+      "name": "1E 2259+586",
+      "catalog_ids": [
+        "1E 2259+586"
+      ],
+      "type": "magnetar",
+      "subtype": "axp",
+      "ra": 345.28,
+      "dec": 58.88,
+      "dist_pc": 4000,
+      "x": 1999.5,
+      "y": -525.3,
+      "z": 3424.3,
+      "period_s": 6.98,
+      "magnetic_field_T": 5900000000.0,
+      "description": "An anomalous X-ray pulsar in the supernova remnant CTB 109 that exhibited an anti-glitch in 2012 — a sudden spin-down rather than a spin-up.",
+      "texture_ref": null
+    },
+    {
+      "id": "4u_0142_61",
+      "name": "4U 0142+61",
+      "catalog_ids": [
+        "4U 0142+61"
+      ],
+      "type": "magnetar",
+      "subtype": "axp",
+      "ra": 26.59,
+      "dec": 61.75,
+      "dist_pc": 3600,
+      "x": 1523.7,
+      "y": 762.7,
+      "z": 3171.2,
+      "period_s": 8.69,
+      "magnetic_field_T": 13000000000.0,
+      "description": "An anomalous X-ray pulsar that was the first magnetar found to emit in the optical and infrared, possibly surrounded by a passive debris disk.",
+      "texture_ref": null
+    },
+    {
+      "id": "sgr_0526_66",
+      "name": "SGR 0526-66",
+      "catalog_ids": [
+        "SGR 0526-66"
+      ],
+      "type": "magnetar",
+      "subtype": "sgr",
+      "ra": 81.5,
+      "dec": -66.07,
+      "dist_pc": 49970,
+      "x": 2995.9,
+      "y": 20046.2,
+      "z": -45674.7,
+      "period_s": 8.05,
+      "magnetic_field_T": 56000000000.0,
+      "description": "The source of the first observed giant magnetar flare on March 5, 1979, located in the supernova remnant N49 in the Large Magellanic Cloud.",
+      "texture_ref": null
+    },
+    {
+      "id": "1e_1048_5937",
+      "name": "1E 1048.1-5937",
+      "catalog_ids": [
+        "1E 1048.1-5937"
+      ],
+      "type": "magnetar",
+      "subtype": "axp",
+      "ra": 162.53,
+      "dec": -59.88,
+      "dist_pc": 2700,
+      "x": -1292.4,
+      "y": 406.7,
+      "z": -2335.4,
+      "period_s": 6.45,
+      "magnetic_field_T": 39000000000.0,
+      "description": "An isolated anomalous X-ray pulsar that has shown both gradual and sudden changes in its spin-down rate, along with variable X-ray flux.",
+      "texture_ref": null
+    },
+    {
+      "id": "sgr_j1745_2900",
+      "name": "SGR J1745-2900",
+      "catalog_ids": [
+        "SGR J1745-2900",
+        "PSR J1745-2900"
+      ],
+      "type": "magnetar",
+      "subtype": "sgr",
+      "ra": 266.42,
+      "dec": -29.01,
+      "dist_pc": 8178,
+      "x": -446.6,
+      "y": -7138.0,
+      "z": -3966.0,
+      "period_s": 3.76,
+      "magnetic_field_T": 23000000000.0,
+      "description": "A magnetar located only 0.1 parsecs from the supermassive black hole Sagittarius A*, providing a unique probe of the extreme Galactic center environment.",
+      "texture_ref": null
+    },
+    {
+      "id": "cxou_j164710",
+      "name": "CXOU J164710.2-455216",
+      "catalog_ids": [
+        "CXOU J164710.2-455216"
+      ],
+      "type": "magnetar",
+      "subtype": "axp",
+      "ra": 251.79,
+      "dec": -45.87,
+      "dist_pc": 3900,
+      "x": -848.6,
+      "y": -2579.5,
+      "z": -2799.3,
+      "period_s": 10.6,
+      "magnetic_field_T": 100000000000.0,
+      "description": "A magnetar in the massive star cluster Westerlund 1, challenging formation models as its progenitor star must have been over 40 solar masses.",
+      "texture_ref": null
+    },
+    {
+      "id": "xte_j1810_197",
+      "name": "XTE J1810-197",
+      "catalog_ids": [
+        "XTE J1810-197"
+      ],
+      "type": "magnetar",
+      "subtype": "axp",
+      "ra": 272.46,
+      "dec": -19.73,
+      "dist_pc": 3500,
+      "x": 141.4,
+      "y": -3291.5,
+      "z": -1181.6,
+      "period_s": 5.54,
+      "magnetic_field_T": 21000000000.0,
+      "description": "The first transient anomalous X-ray pulsar discovered and the first magnetar from which radio pulsations were detected.",
+      "texture_ref": null
+    },
+    {
+      "id": "swift_j1818",
+      "name": "Swift J1818.0-1607",
+      "catalog_ids": [
+        "Swift J1818.0-1607"
+      ],
+      "type": "magnetar",
+      "subtype": "sgr",
+      "ra": 274.5,
+      "dec": -16.13,
+      "dist_pc": 4800,
+      "x": 361.8,
+      "y": -4596.8,
+      "z": -1333.5,
+      "period_s": 1.36,
+      "magnetic_field_T": 27000000000.0,
+      "description": "One of the youngest known magnetars at roughly 240 years old, and one of the fastest-spinning magnetars ever discovered.",
+      "texture_ref": null
+    },
+    {
+      "id": "algol",
+      "name": "Algol",
+      "catalog_ids": [
+        "Beta Persei",
+        "HIP 14576"
+      ],
+      "type": "variable_star",
+      "subtype": "eclipsing",
+      "ra": 47.04,
+      "dec": 40.96,
+      "dist_pc": 28,
+      "x": 14.4,
+      "y": 15.5,
+      "z": 18.4,
+      "period_days": 2.867,
+      "mag_range": [
+        2.12,
+        3.39
+      ],
+      "description": "The 'Demon Star,' the best-known eclipsing binary whose regular brightness variations were likely known to ancient Egyptian astronomers 3,000 years ago.",
+      "texture_ref": null
+    },
+    {
+      "id": "mira",
+      "name": "Mira",
+      "catalog_ids": [
+        "Omicron Ceti",
+        "HIP 10826"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 34.84,
+      "dec": -2.98,
+      "dist_pc": 92,
+      "x": 75.4,
+      "y": 52.5,
+      "z": -4.8,
+      "period_days": 332,
+      "mag_range": [
+        2.0,
+        10.1
+      ],
+      "description": "The prototype long-period variable star, discovered in 1596, trailing a comet-like tail of material 13 light-years long revealed by ultraviolet observations.",
+      "texture_ref": null
+    },
+    {
+      "id": "delta_cephei",
+      "name": "Delta Cephei",
+      "catalog_ids": [
+        "Delta Cephei",
+        "HIP 110991"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 337.29,
+      "dec": 58.42,
+      "dist_pc": 272,
+      "x": 131.4,
+      "y": -55.0,
+      "z": 231.7,
+      "period_days": 5.366,
+      "mag_range": [
+        3.48,
+        4.37
+      ],
+      "description": "The prototype Cepheid variable whose period-luminosity relationship became the cornerstone for measuring cosmic distances.",
+      "texture_ref": null
+    },
+    {
+      "id": "rr_lyrae",
+      "name": "RR Lyrae",
+      "catalog_ids": [
+        "RR Lyrae",
+        "HIP 95497"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 292.23,
+      "dec": 42.78,
+      "dist_pc": 258,
+      "x": 71.6,
+      "y": -175.3,
+      "z": 175.2,
+      "period_days": 0.567,
+      "mag_range": [
+        7.06,
+        8.12
+      ],
+      "description": "The prototype of RR Lyrae variables, pulsating giant stars used as standard candles to measure distances to globular clusters and nearby galaxies.",
+      "texture_ref": null
+    },
+    {
+      "id": "eta_carinae",
+      "name": "Eta Carinae",
+      "catalog_ids": [
+        "Eta Carinae",
+        "HIP 52043"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 161.26,
+      "dec": -59.68,
+      "dist_pc": 2300,
+      "x": -1099.6,
+      "y": 373.0,
+      "z": -1985.4,
+      "period_days": null,
+      "mag_range": [
+        -1.0,
+        7.9
+      ],
+      "description": "One of the most massive and luminous stars known, which underwent a dramatic Great Eruption in the 1840s that briefly made it the second-brightest star in the sky.",
+      "texture_ref": null
+    },
+    {
+      "id": "betelgeuse",
+      "name": "Betelgeuse",
+      "catalog_ids": [
+        "Alpha Orionis",
+        "HIP 27989"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 88.79,
+      "dec": 7.41,
+      "dist_pc": 200,
+      "x": 4.2,
+      "y": 198.3,
+      "z": 25.8,
+      "period_days": 420,
+      "mag_range": [
+        0.0,
+        1.6
+      ],
+      "description": "A red supergiant approaching the end of its life, whose unexpected dimming in late 2019 was caused by a massive surface eruption and resulting dust cloud.",
+      "texture_ref": null
+    },
+    {
+      "id": "r_leporis",
+      "name": "Hind's Crimson Star",
+      "catalog_ids": [
+        "R Leporis",
+        "HIP 23203"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 74.89,
+      "dec": -14.81,
+      "dist_pc": 411,
+      "x": 103.6,
+      "y": 383.6,
+      "z": -105.1,
+      "period_days": 427,
+      "mag_range": [
+        5.5,
+        11.7
+      ],
+      "description": "One of the reddest stars visible in amateur telescopes, a carbon star whose deep crimson color intensifies near minimum brightness.",
+      "texture_ref": null
+    },
+    {
+      "id": "chi_cygni",
+      "name": "Chi Cygni",
+      "catalog_ids": [
+        "Chi Cygni",
+        "HIP 97629"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 298.34,
+      "dec": 32.91,
+      "dist_pc": 181,
+      "x": 72.1,
+      "y": -133.7,
+      "z": 98.3,
+      "period_days": 408,
+      "mag_range": [
+        3.3,
+        14.2
+      ],
+      "description": "A Mira-type variable with one of the largest brightness ranges of any pulsating star, varying by nearly 11 magnitudes over its 408-day cycle.",
+      "texture_ref": null
+    },
+    {
+      "id": "r_coronae_borealis",
+      "name": "R Coronae Borealis",
+      "catalog_ids": [
+        "R CrB",
+        "HIP 76221"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 233.51,
+      "dec": 28.58,
+      "dist_pc": 1400,
+      "x": -731.1,
+      "y": -988.4,
+      "z": 669.7,
+      "period_days": null,
+      "mag_range": [
+        5.7,
+        14.8
+      ],
+      "description": "The prototype of a rare class of hydrogen-poor carbon stars that undergo sudden, unpredictable fadings when carbon dust condenses in the line of sight.",
+      "texture_ref": null
+    },
+    {
+      "id": "t_tauri",
+      "name": "T Tauri",
+      "catalog_ids": [
+        "T Tauri",
+        "HIP 20390"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 65.5,
+      "dec": 19.53,
+      "dist_pc": 143,
+      "x": 55.9,
+      "y": 122.6,
+      "z": 47.8,
+      "period_days": null,
+      "mag_range": [
+        9.3,
+        13.5
+      ],
+      "description": "The prototype of pre-main-sequence stars still contracting toward the main sequence, surrounded by a protoplanetary disk and driving bipolar jets.",
+      "texture_ref": null
+    },
+    {
+      "id": "fu_orionis",
+      "name": "FU Orionis",
+      "catalog_ids": [
+        "FU Orionis"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 84.56,
+      "dec": 9.04,
+      "dist_pc": 450,
+      "x": 42.1,
+      "y": 442.4,
+      "z": 70.7,
+      "period_days": null,
+      "mag_range": [
+        9.0,
+        16.0
+      ],
+      "description": "The prototype of FUor variables that undergo dramatic brightenings caused by sudden increases in accretion rate from their circumstellar disks.",
+      "texture_ref": null
+    },
+    {
+      "id": "ss_cygni_var",
+      "name": "SS Cygni",
+      "catalog_ids": [
+        "SS Cygni"
+      ],
+      "type": "variable_star",
+      "subtype": "cataclysmic",
+      "ra": 325.68,
+      "dec": 43.59,
+      "dist_pc": 114,
+      "x": 68.2,
+      "y": -46.6,
+      "z": 78.6,
+      "period_days": 49.5,
+      "mag_range": [
+        8.2,
+        12.4
+      ],
+      "description": "The brightest dwarf nova in the sky and one of the most studied cataclysmic variables, undergoing outbursts roughly every 50 days.",
+      "texture_ref": null
+    },
+    {
+      "id": "u_geminorum",
+      "name": "U Geminorum",
+      "catalog_ids": [
+        "U Geminorum"
+      ],
+      "type": "variable_star",
+      "subtype": "cataclysmic",
+      "ra": 118.77,
+      "dec": 22.0,
+      "dist_pc": 96,
+      "x": -42.8,
+      "y": 78.0,
+      "z": 36.0,
+      "period_days": 105,
+      "mag_range": [
+        8.2,
+        14.9
+      ],
+      "description": "The prototype dwarf nova, first observed in outburst in 1855, consisting of a white dwarf accreting material from a red dwarf companion.",
+      "texture_ref": null
+    },
+    {
+      "id": "beta_lyrae",
+      "name": "Beta Lyrae",
+      "catalog_ids": [
+        "Beta Lyrae",
+        "Sheliak",
+        "HIP 92420"
+      ],
+      "type": "variable_star",
+      "subtype": "eclipsing",
+      "ra": 282.52,
+      "dec": 33.36,
+      "dist_pc": 270,
+      "x": 48.9,
+      "y": -220.2,
+      "z": 148.5,
+      "period_days": 12.94,
+      "mag_range": [
+        3.25,
+        4.36
+      ],
+      "description": "The prototype of a class of semi-detached eclipsing binaries where mass transfer between the stars produces a continuously varying light curve.",
+      "texture_ref": null
+    },
+    {
+      "id": "w_ursae_majoris",
+      "name": "W Ursae Majoris",
+      "catalog_ids": [
+        "W UMa"
+      ],
+      "type": "variable_star",
+      "subtype": "eclipsing",
+      "ra": 148.55,
+      "dec": 55.95,
+      "dist_pc": 52,
+      "x": -24.8,
+      "y": 15.2,
+      "z": 43.1,
+      "period_days": 0.334,
+      "mag_range": [
+        7.75,
+        8.48
+      ],
+      "description": "The prototype of contact binary systems where both stars overflow their Roche lobes and share a common envelope of material.",
+      "texture_ref": null
+    },
+    {
+      "id": "rs_cvn",
+      "name": "RS Canum Venaticorum",
+      "catalog_ids": [
+        "RS CVn"
+      ],
+      "type": "variable_star",
+      "subtype": "rotating",
+      "ra": 204.79,
+      "dec": 35.81,
+      "dist_pc": 140,
+      "x": -103.1,
+      "y": -47.6,
+      "z": 81.9,
+      "period_days": 4.798,
+      "mag_range": [
+        7.93,
+        9.14
+      ],
+      "description": "The prototype of chromospherically active binary stars exhibiting large starspots, strong calcium emission, and frequent flaring activity.",
+      "texture_ref": null
+    },
+    {
+      "id": "by_draconis",
+      "name": "BY Draconis",
+      "catalog_ids": [
+        "BY Dra",
+        "GJ 719"
+      ],
+      "type": "variable_star",
+      "subtype": "rotating",
+      "ra": 276.08,
+      "dec": 51.73,
+      "dist_pc": 16.4,
+      "x": 1.1,
+      "y": -10.1,
+      "z": 12.9,
+      "period_days": 3.836,
+      "mag_range": [
+        8.07,
+        8.4
+      ],
+      "description": "The prototype of spotted variable stars, a nearby red dwarf whose brightness varies as large cool starspots rotate in and out of view.",
+      "texture_ref": null
+    },
+    {
+      "id": "r_aquarii",
+      "name": "R Aquarii",
+      "catalog_ids": [
+        "R Aqr",
+        "HIP 117054"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 354.85,
+      "dec": -15.18,
+      "dist_pc": 320,
+      "x": 307.6,
+      "y": -27.7,
+      "z": -83.8,
+      "period_days": 387,
+      "mag_range": [
+        5.2,
+        12.4
+      ],
+      "description": "A symbiotic binary combining a Mira variable and a white dwarf, producing a spectacular jet-like nebula from material accreted onto the white dwarf.",
+      "texture_ref": null
+    },
+    {
+      "id": "polaris",
+      "name": "Polaris",
+      "catalog_ids": [
+        "Alpha Ursae Minoris",
+        "HIP 11767"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 37.95,
+      "dec": 89.26,
+      "dist_pc": 133,
+      "x": 1.4,
+      "y": 1.1,
+      "z": 133.0,
+      "period_days": 3.97,
+      "mag_range": [
+        1.86,
+        2.13
+      ],
+      "description": "The current North Star and the nearest Cepheid variable, whose pulsation amplitude has been increasing after nearly ceasing in the 1990s.",
+      "texture_ref": null
+    },
+    {
+      "id": "r_scuti",
+      "name": "R Scuti",
+      "catalog_ids": [
+        "R Sct",
+        "HIP 92202"
+      ],
+      "type": "variable_star",
+      "subtype": "pulsating",
+      "ra": 280.69,
+      "dec": -5.71,
+      "dist_pc": 460,
+      "x": 84.9,
+      "y": -449.8,
+      "z": -45.8,
+      "period_days": 146,
+      "mag_range": [
+        4.2,
+        8.6
+      ],
+      "description": "The brightest RV Tauri variable, a pulsating post-AGB star exhibiting alternating deep and shallow minima in its light curve.",
+      "texture_ref": null
+    },
+    {
+      "id": "s_doradus",
+      "name": "S Doradus",
+      "catalog_ids": [
+        "S Dor",
+        "HIP 25448"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 81.11,
+      "dec": -69.63,
+      "dist_pc": 49970,
+      "x": 2688.0,
+      "y": 17184.7,
+      "z": -46845.1,
+      "period_days": null,
+      "mag_range": [
+        -0.5,
+        2.0
+      ],
+      "description": "One of the most luminous stars known, the prototype of S Doradus variables that exhibit irregular eruptions, located in the Large Magellanic Cloud.",
+      "texture_ref": null
+    },
+    {
+      "id": "p_cygni",
+      "name": "P Cygni",
+      "catalog_ids": [
+        "P Cyg",
+        "34 Cyg",
+        "HIP 100044"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 305.53,
+      "dec": 38.03,
+      "dist_pc": 1800,
+      "x": 823.9,
+      "y": -1153.9,
+      "z": 1108.9,
+      "period_days": null,
+      "mag_range": [
+        3.0,
+        6.0
+      ],
+      "description": "A luminous blue variable whose distinctive spectral profile — emission with a blueshifted absorption component — is now named after it.",
+      "texture_ref": null
+    },
+    {
+      "id": "ag_carinae",
+      "name": "AG Carinae",
+      "catalog_ids": [
+        "AG Car",
+        "HIP 52938"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 160.34,
+      "dec": -60.45,
+      "dist_pc": 6000,
+      "x": -2786.6,
+      "y": 995.6,
+      "z": -5219.6,
+      "period_days": null,
+      "mag_range": [
+        5.7,
+        9.0
+      ],
+      "description": "One of the most luminous stars in the Milky Way, a luminous blue variable surrounded by a spectacular ring nebula of ejected material.",
+      "texture_ref": null
+    },
+    {
+      "id": "wr_104",
+      "name": "WR 104",
+      "catalog_ids": [
+        "WR 104"
+      ],
+      "type": "variable_star",
+      "subtype": "rotating",
+      "ra": 272.6,
+      "dec": -26.03,
+      "dist_pc": 2580,
+      "x": 105.2,
+      "y": -2315.9,
+      "z": -1132.2,
+      "period_days": 241,
+      "mag_range": [
+        13.0,
+        14.6
+      ],
+      "description": "A Wolf-Rayet star producing a spectacular rotating pinwheel nebula of dust, wound up by the orbital motion of its binary companion.",
+      "texture_ref": null
+    },
+    {
+      "id": "v838_monocerotis",
+      "name": "V838 Monocerotis",
+      "catalog_ids": [
+        "V838 Mon"
+      ],
+      "type": "variable_star",
+      "subtype": "eruptive",
+      "ra": 105.95,
+      "dec": -3.84,
+      "dist_pc": 6100,
+      "x": -1672.5,
+      "y": 5852.0,
+      "z": -408.5,
+      "period_days": null,
+      "mag_range": [
+        6.7,
+        15.6
+      ],
+      "description": "A star that underwent an unusual outburst in 2002 producing a spectacular light echo expanding through surrounding dust, whose mechanism remains debated.",
+      "texture_ref": null
+    }
+  ]
+}

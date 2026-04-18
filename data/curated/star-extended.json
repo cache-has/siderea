@@ -1,0 +1,229 @@
+{
+  "_comment": "Extended properties for notable stars. Merged into stars-meta.json by process-hyg.py. Categories are auto-assigned for brightest/nearest; this file adds manual tags and features.",
+
+  "manual_entries": [
+    {
+      "name": "Tau Ceti",
+      "bf": "52Tau Cet",
+      "hip": 8102,
+      "description": "A nearby G8.5 dwarf just 3.6 parsecs away in Cetus, long considered one of the most Sun-like stars. It hosts a multi-planet system with at least four candidate super-Earths, two of which may lie in the habitable zone.",
+      "categories": ["nearest", "exoplanet_host"],
+      "notable_features": ["Multi-planet system with habitable zone candidates", "One of the most Sun-like nearby stars", "Low metallicity (~1/3 solar)"]
+    },
+    {
+      "name": "Eta Carinae",
+      "bf": "Eta Car",
+      "hip": null,
+      "description": "One of the most massive and luminous stars known, an unstable luminous blue variable ~2,300 parsecs away that underwent a spectacular eruption in the 1840s (the Great Eruption), briefly becoming the second-brightest star in the sky. It is surrounded by the Homunculus Nebula and is expected to explode as a supernova in the astronomically near future.",
+      "categories": ["scientific"],
+      "notable_features": ["Luminous blue variable, ~100-150 solar masses", "Great Eruption of 1843", "Homunculus Nebula", "Candidate hypernova progenitor"]
+    }
+  ],
+
+  "extensions": {
+    "Sol": {
+      "categories": ["nearest"],
+      "mass_solar": 1.0,
+      "radius_solar": 1.0,
+      "notable_features": ["Center of the Solar System", "G2V main-sequence star", "Age: 4.6 billion years"]
+    },
+    "Sirius": {
+      "categories": ["brightest", "nearest"],
+      "mass_solar": 2.063,
+      "radius_solar": 1.711,
+      "notable_features": ["Brightest star in the night sky", "Binary system with white dwarf companion (Sirius B)", "Was used to define the ancient Egyptian calendar"]
+    },
+    "Canopus": {
+      "categories": ["brightest"],
+      "mass_solar": 8.0,
+      "radius_solar": 71.0,
+      "notable_features": ["Second-brightest star in the night sky", "F-type bright supergiant", "Used for spacecraft navigation"]
+    },
+    "Arcturus": {
+      "categories": ["brightest"],
+      "mass_solar": 1.08,
+      "radius_solar": 25.4,
+      "notable_features": ["Brightest star in the northern hemisphere", "Red giant, Population II halo star", "High proper motion (2.3 arcsec/yr)"]
+    },
+    "Vega": {
+      "categories": ["brightest", "scientific"],
+      "mass_solar": 2.135,
+      "radius_solar": 2.362,
+      "notable_features": ["Former pole star, future pole star (~13,700 CE)", "Prototype for the Vega photometric system (mag = 0)", "Debris disk suggesting possible planetary system"]
+    },
+    "Capella": {
+      "categories": ["brightest"],
+      "mass_solar": 2.57,
+      "radius_solar": 11.98,
+      "notable_features": ["Spectroscopic binary (two G-type giants)", "Sixth-brightest star in the night sky"]
+    },
+    "Rigel": {
+      "categories": ["brightest"],
+      "mass_solar": 21.0,
+      "radius_solar": 78.9,
+      "notable_features": ["Blue supergiant, ~120,000 solar luminosities", "Brightest star in Orion", "Triple or quadruple star system"]
+    },
+    "Procyon": {
+      "categories": ["brightest", "nearest"],
+      "mass_solar": 1.499,
+      "radius_solar": 2.048,
+      "notable_features": ["Eighth-brightest star", "Binary with white dwarf companion (Procyon B)", "Subgiant evolving off main sequence"]
+    },
+    "Betelgeuse": {
+      "categories": ["brightest", "scientific"],
+      "mass_solar": 16.5,
+      "radius_solar": 764.0,
+      "notable_features": ["Red supergiant, candidate for next visible supernova", "Semi-regular variable (dimming events)", "If placed at the Sun, would engulf Jupiter's orbit"]
+    },
+    "Achernar": {
+      "categories": ["brightest"],
+      "mass_solar": 6.7,
+      "radius_solar": 9.16,
+      "notable_features": ["Ninth-brightest star", "Most oblate star known (rapid rotation)", "Brightest star in Eridanus"]
+    },
+    "Altair": {
+      "categories": ["brightest", "nearest"],
+      "mass_solar": 1.79,
+      "radius_solar": 1.63,
+      "notable_features": ["Twelfth-brightest star", "Rapid rotator (oblate shape imaged directly)", "Part of the Summer Triangle asterism"]
+    },
+    "Proxima Centauri": {
+      "categories": ["nearest", "exoplanet_host"],
+      "mass_solar": 0.1221,
+      "radius_solar": 0.1542,
+      "notable_features": ["Nearest star to the Sun (1.30 pc)", "Red dwarf flare star", "Hosts Proxima b in habitable zone"]
+    },
+    "Rigil Kentaurus": {
+      "categories": ["brightest", "nearest"],
+      "mass_solar": 1.1,
+      "radius_solar": 1.2234,
+      "notable_features": ["Alpha Centauri A, third-brightest star", "Part of nearest stellar system", "G2V star very similar to the Sun"]
+    },
+    "Barnard's Star": {
+      "categories": ["nearest", "scientific"],
+      "mass_solar": 0.144,
+      "radius_solar": 0.196,
+      "notable_features": ["Second-nearest star system (1.83 pc)", "Highest proper motion of any star (10.3 arcsec/yr)", "Red dwarf, possible sub-Earth planet candidate"]
+    },
+    "Wolf 359": {
+      "categories": ["nearest"],
+      "mass_solar": 0.09,
+      "radius_solar": 0.16,
+      "notable_features": ["One of the faintest known stars", "Flare star in Leo", "Fifth-nearest star system"]
+    },
+    "Polaris": {
+      "categories": ["scientific"],
+      "mass_solar": 5.4,
+      "radius_solar": 37.5,
+      "notable_features": ["Current North Pole Star", "Classical Cepheid variable (period ~4 days)", "Triple star system"]
+    },
+    "Algol": {
+      "categories": ["scientific"],
+      "mass_solar": 3.17,
+      "radius_solar": 2.73,
+      "notable_features": ["Prototype eclipsing binary (Algol paradox)", "Period: 2.867 days", "Known as the 'Demon Star'"]
+    },
+    "Mira": {
+      "categories": ["scientific"],
+      "mass_solar": 1.18,
+      "radius_solar": 332.0,
+      "notable_features": ["Prototype long-period variable star", "Period ~332 days, mag range 2.0-10.1", "Has a cometary tail 13 light-years long"]
+    },
+    "Fomalhaut": {
+      "categories": ["brightest", "exoplanet_host", "scientific"],
+      "mass_solar": 1.92,
+      "radius_solar": 1.842,
+      "notable_features": ["Prominent debris disk imaged by Hubble/JWST", "One of the first stars with a directly imaged exoplanet candidate", "Part of a wide triple star system"]
+    },
+    "Deneb": {
+      "categories": ["brightest", "scientific"],
+      "mass_solar": 19.0,
+      "radius_solar": 203.0,
+      "notable_features": ["One of the most luminous stars visible to the naked eye (~200,000 L_sun)", "Blue-white supergiant", "Part of the Summer Triangle"]
+    },
+    "Antares": {
+      "categories": ["brightest", "scientific"],
+      "mass_solar": 12.0,
+      "radius_solar": 680.0,
+      "notable_features": ["Red supergiant, rival of Mars in color", "If at the Sun, would extend past Jupiter's orbit", "Has a blue companion star (Antares B)"]
+    },
+    "Aldebaran": {
+      "categories": ["brightest"],
+      "mass_solar": 1.16,
+      "radius_solar": 45.1,
+      "notable_features": ["Brightest star in Taurus", "Orange giant, eye of the Bull", "Voyager 1 heading in its general direction"]
+    },
+    "Spica": {
+      "categories": ["brightest"],
+      "mass_solar": 11.43,
+      "radius_solar": 7.47,
+      "notable_features": ["Brightest star in Virgo", "Spectroscopic binary with 4-day period", "Hot blue giant, prototype for ellipsoidal variables"]
+    },
+    "Pollux": {
+      "categories": ["brightest", "exoplanet_host"],
+      "mass_solar": 1.91,
+      "radius_solar": 9.06,
+      "notable_features": ["Brightest star in Gemini", "Orange giant with confirmed exoplanet (Thestias)", "Nearest giant star with a known planet"]
+    },
+    "Ran": {
+      "categories": ["nearest", "exoplanet_host"],
+      "mass_solar": 0.82,
+      "radius_solar": 0.735,
+      "notable_features": ["Epsilon Eridani, one of nearest Sun-like stars (3.2 pc)", "Hosts at least one confirmed planet", "Young star (~400-800 Myr) with debris disk"]
+    },
+    "Helvetios": {
+      "categories": ["exoplanet_host", "scientific"],
+      "mass_solar": 1.06,
+      "radius_solar": 1.266,
+      "notable_features": ["51 Pegasi, first Sun-like star with a confirmed exoplanet (1995)", "Discovery of Dimidium (51 Peg b) won 2019 Nobel Prize in Physics", "Hot Jupiter pioneer"]
+    },
+    "Toliman": {
+      "categories": ["nearest"],
+      "mass_solar": 0.907,
+      "radius_solar": 0.8632,
+      "notable_features": ["Alpha Centauri B, part of nearest star system", "K1V orange dwarf", "Candidate rocky planet Proxima c debated"]
+    },
+    "Lalande 21185": {
+      "categories": ["nearest"],
+      "mass_solar": 0.39,
+      "radius_solar": 0.392,
+      "notable_features": ["Fourth-nearest star system (2.55 pc)", "Red dwarf with possible planetary companions"]
+    },
+    "Ross 128": {
+      "categories": ["nearest", "exoplanet_host"],
+      "mass_solar": 0.168,
+      "radius_solar": 0.1967,
+      "notable_features": ["Hosts Ross 128 b, an Earth-mass planet in habitable zone", "Quiet red dwarf (low flare activity)", "Nearest known potentially habitable exoplanet host"]
+    },
+    "Luyten's Star": {
+      "categories": ["nearest", "exoplanet_host"],
+      "mass_solar": 0.26,
+      "radius_solar": 0.293,
+      "notable_features": ["Red dwarf at 3.7 pc with super-Earth in habitable zone", "Target for METI message (2017)"]
+    },
+    "Regulus": {
+      "categories": ["brightest"],
+      "mass_solar": 3.8,
+      "radius_solar": 3.092,
+      "notable_features": ["Brightest star in Leo", "Rapidly rotating B7V star", "Quadruple star system"]
+    },
+    "Castor": {
+      "categories": ["brightest", "scientific"],
+      "mass_solar": 2.76,
+      "radius_solar": 2.4,
+      "notable_features": ["Sextuple star system (three spectroscopic binaries)", "Second-brightest in Gemini"]
+    },
+    "Hadar": {
+      "categories": ["brightest"],
+      "mass_solar": 12.02,
+      "radius_solar": 8.4,
+      "notable_features": ["Beta Centauri, 11th-brightest star", "Triple star system of B-type giants"]
+    },
+    "Acrux": {
+      "categories": ["brightest"],
+      "mass_solar": 17.8,
+      "radius_solar": 7.8,
+      "notable_features": ["Brightest star in Crux (Southern Cross)", "Multiple star system", "Featured on flags of Australia, NZ, Brazil, and others"]
+    }
+  }
+}

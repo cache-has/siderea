@@ -1,0 +1,45 @@
+[package]
+name = "astro-core"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.70"
+authors = ["Cache McClure <cache.mcclure@gmail.com>"]
+description = "Pure Rust astrodynamics core — extracted from astrora for WASM compilation"
+license = "MIT"
+
+[lib]
+name = "astro_core"
+crate-type = ["rlib"]
+
+[dependencies]
+# Linear algebra (WASM-compatible, auto-SIMD)
+nalgebra = "0.33"
+num-traits = "0.2"
+
+# High-precision time handling (pure Rust)
+hifitime = "4"
+
+# SGP4/SDP4 satellite propagation (pure Rust)
+sgp4 = { version = "2.3", features = ["std", "serde"] }
+
+# VSOP87 planetary ephemeris (pure Rust, all variants)
+# Disable SIMD — WASM doesn't support x86 SIMD, avoids dead code
+vsop87 = { version = "3.0", default-features = false, features = [] }
+
+# Error handling
+thiserror = "1.0"
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Optional: parallelism (not available in WASM)
+rayon = { version = "1.10", optional = true }
+
+[dev-dependencies]
+approx = "0.5"
+proptest = "1.0"
+
+[features]
+default = []
+parallel = ["rayon"]
