@@ -24,11 +24,11 @@ data/raw/
 # Source texture downloads (large files — regenerate with npm run fetch:textures)
 data/textures-source/
 
-# Processed texture LOD tiers (regenerate with npm run build:textures)
-static/textures/
+# Processed texture LOD tiers (committed for Cloudflare Pages deployment)
+# Regenerate locally with: npm run build:textures
 
-# Processed data artifacts (regenerated from raw sources)
-static/data/
+# Processed data artifacts (committed for Cloudflare Pages deployment)
+# Regenerate locally with: npm run build:data
 
 # Environment
 .env
